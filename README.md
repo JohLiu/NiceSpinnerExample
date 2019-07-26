@@ -16,6 +16,6 @@
  - oldlibrary
    该模块是nice-spinner的1.3.2版本的代码更改
  
- ![](./images/img01.jpg)  ![](./images/img02.jpg)
+ <img height="480px" src="images/img01.jpg"> <img height="480px" src="images/img02.jpg">
  
  
