@@ -9,4 +9,13 @@
  ##### 问题记录
  - 可见选项数目首次点击时未生效
  
+ ##### module
+ 
+ - library
+   该模块是最新的nice-spinner更改的
+ - oldlibrary
+   该模块是nice-spinner的1.3.2版本的代码更改
+ 
+ ![](../images/img01.jpg)  ![](../images/img02.jpg)
+ 
  
